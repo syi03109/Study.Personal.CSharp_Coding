@@ -1,3 +1,2 @@
 # abcd
 function
-function2
